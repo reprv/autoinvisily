@@ -1,1 +1,1 @@
-This program is to make an exe of program written in cx-freeze
+cx_freeze to make an installer
